@@ -1,0 +1,5 @@
+t=()
+t=tuple()
+t=(23,24,234)
+print(t)
+print(type(t))
